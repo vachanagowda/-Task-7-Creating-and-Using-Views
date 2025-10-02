@@ -7,7 +7,8 @@ Learn how to create and use SQL views for abstraction, reusability, and data sec
 - Microsoft SQL Server Management Studio (SSMS)
 
 ##  Deliverables
-- SQL scripts to create and use views
-- Answers to common interview questions related to SQL views
+- Views.sql → contains all required queries.
+- OUTCOME.docx → contains the outcome of the queries.
+- README.md → documentation of the task.
 
 
